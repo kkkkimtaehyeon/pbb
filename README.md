@@ -1,9 +1,9 @@
 # pbb
-서비스 - https://plzbuybook.netlify.app
+MSA 온라인 서점 프로젝트를 Monolithic 구조 수정한 프로젝트 
 
-BackEnd - https://github.com/kkkkimtaehyeon/pbb_api_server
-
-FrontEnd - https://github.com/kkkkimtaehyeon/pbb_front
+- 서비스 - https://plzbuybook.netlify.app
+- Backend Repo - https://github.com/kkkkimtaehyeon/pbb_api_server
+- FrontEnd Repo- https://github.com/kkkkimtaehyeon/pbb_front
 
 # 아키텍처
 <img width="822" height="541" alt="image" src="https://github.com/user-attachments/assets/02063dd4-11c5-41da-88ab-9ffc03764e10" />
