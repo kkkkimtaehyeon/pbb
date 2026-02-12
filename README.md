@@ -1,5 +1,5 @@
 # pbb
-MSA 온라인 서점 프로젝트를 Monolithic 구조 수정한 프로젝트 
+MSA 온라인 서점 프로젝트를 Monolithic 구조로 수정한 프로젝트 
 
 - 서비스 - https://plzbuybook.netlify.app
 - Backend Repo - https://github.com/kkkkimtaehyeon/pbb_api_server
